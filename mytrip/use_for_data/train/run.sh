@@ -16,8 +16,4 @@ python user_id2no.py
 paste user2no user_id_temp > no_match_user
 
 
-cp trip2no rel.trip.train
-
-cp user2no rel.user.train
-
 cp likes target-train
